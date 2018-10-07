@@ -10,6 +10,9 @@ Notes for quick review, based on the existing review part of this course. The Oc
 Other review notes are available at:
 * http://www.holehouse.org/mlclass/
 
+A Python port of the assignments is available at:
+* https://github.com/dibgerge/ml-coursera-python-assignments
+
 ## Certificate
 
 [My Course Certificate](ML-certificate.pdf)
